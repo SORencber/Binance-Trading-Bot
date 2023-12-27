@@ -1,0 +1,42 @@
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+Error during sell order: ICXUSDT,APIError(code=-2010): Account has insufficient balance for requested action.
+2023-12-27 11:01:05 - Hata: buy() takes 2 positional arguments but 4 were given, Satır: 144
+2023-12-27 11:02:35 - Hata: buy() takes 2 positional arguments but 4 were given, Satır: 144
+2023-12-27 11:04:05 - Hata: buy() takes 2 positional arguments but 4 were given, Satır: 144
+2023-12-27 11:12:19 - Hata: buy() takes 2 positional arguments but 4 were given, Satır: 144
+2023-12-27 11:29:55 - Hata: list index out of range, Satır: 144
+2023-12-27 11:31:23 - Hata: list index out of range, Satır: 144
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1100): Illegal characters found in parameter 'quantity'; legal range is '^([0-9]{1,20})(\.[0-9]{1,20})?$'.
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
+Satış işlemi hatası: APIError(code=-1013): Filter failure: LOT_SIZE
